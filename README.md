@@ -1,2 +1,2 @@
-# Web-Sit-Git
+# Web-Site-Git
 Meu primeiro Web Site
